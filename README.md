@@ -252,3 +252,4 @@ You should receive replies.
 7. What is the purpose of a wireless access point?
 8. What are the main functions of end devices and intermediary devices?
 9. who provide internet ?
+questions?
