@@ -1,6 +1,6 @@
 # CCNA 1 – Module 1: Networking Today:
 
-## Topic 1: Networks and Their Purpose
+## Topic 1: Networks and Their Purpose:
 
 ### 1. What is a Network?
 
