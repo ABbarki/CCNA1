@@ -185,7 +185,7 @@ Example: Sending a file from your laptop to another computer.
 4. A router forwards it to another network if necessary.
 5. The destination computer receives the data.
 
-Remember:
+Remember :
 - End devices create or receive data.
 - Intermediary devices move data.
 - Network media carry data.
