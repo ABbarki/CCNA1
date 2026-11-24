@@ -84,7 +84,7 @@ Example:
 2. Intermediary devices.
 3. Network media.
 
-## 2. End Devices
+## 2. End Devices:
 
 An end device is a device that acts as the source or destination of network communication.
 
