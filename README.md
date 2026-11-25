@@ -24,7 +24,7 @@ A **computer network** is a group of interconnected devices that communicate and
 | Internet access | Browsing websites |
 | Centralized management | Managing users and servers |
 
-### 3. Important Networking Terms
+### 3. Important Networking Terms:
 
 - **Host:** Any device that communicates over a network.
 - **Client:** A device or application requesting a service.
