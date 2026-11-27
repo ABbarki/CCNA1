@@ -34,7 +34,7 @@ A **computer network** is a group of interconnected devices that communicate and
 
 ### 4. Client-Server vs. Peer-to-Peer
 
-#### Client-Server
+#### Client-Server:
 
 Clients request services from a centralized server.
 
